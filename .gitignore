@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+
+# Editors and operating systems
+.vscode/
+.idea/
+.DS_Store
+
+# LaTeX intermediate files
+*.aux
+*.bbl
+*.blg
+*.fdb_latexmk
+*.fls
+*.lof
+*.lot
+*.out
+*.synctex.gz
+*.toc
+
+# Keep generated research outputs under version control for reproducibility.
